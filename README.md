@@ -1,26 +1,94 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rafael Leite</h1>
+# 👨‍💻 Rafael Leite
 
-## Linkedin
+## 🚀 Data Engineer & Business Intelligence Specialist
 
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/rafael-leite-data-analyst" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-rafaelleite-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-</p>
+Experienced data professional with solid expertise in **Microsoft Fabric**, **Azure Data Factory (ADF)**, **Power BI**, and **Databricks**. I specialize in end-to-end data solutions — from integration and orchestration to modeling and delivering strategic insights.
 
-## Experiência
-- 📌 Profissional experiente com sólida expertise em identificação e análise de requisitos, conduzindo à elaboração de relatórios de alto valor para o negócio e à preparação de dados estratégicos para dashboards. Possuo habilidade distintiva no processo de ETL e integração a sistemas, proporcionando uma visão abrangente.
-- 📌 Demonstrando maestria em análise de dados, possuo notável capacidade para extrair insights de diversas fontes. Aplico habilidades avançadas em linguagens M, DAX, Python e SQL garantindo cálculos precisos de indicadores e análises detalhadas.
-- 📌 Tenho atuação ativa no desenvolvimento e parametrização de ambientes de inteligência de negócios, incluindo o gerenciamento de permissões e níveis de acesso, assegurando disponibilidade, segurança e proteção das informações. Possuo uma base sólida para soluções de Big Data.
-- 📌 Minha trajetória envolve análise de dados e elaboração de estudos estratégicos, coletando e consolidando informações cruciais, como produção, custos e cronogramas. Tenho expertise no desenvolvimento de pipelines de dados no Databricks, otimizando fluxos para análises robustas.
+---
 
-##
-### 🛠️ Algumas das tecnologias que utilizo
-<div>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Rafa-Ms" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Rafa-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Db" height="30" width="40" src="https://raw.githubusercontent.com/gist/raffa7086/edce58931ecdd07b974d95adebf7a813/raw/a2aa96e3419500a60f6ddcdd5f16d2f0fe1b11d4/icon_databricks.svg" />
-  <img align="center" alt="Rafa-Pb" height="30" width="40" src="https://raw.githubusercontent.com/gist/raffa7086/10b3c74bc0010ddd1945b4b87d83e951/raw/3a64668594c26e6976dec37d9620872452fd2feb/icon_powerbi.svg" />
-</div>
+### 🧰 Core Technical Skills
+
+- 🏗️ **Data Architectures**
+  - Medallion Architecture
+  - Data Warehouse (DW)
+  - Lakehouse
+  - Data Pipelines
+
+- 🔁 **Integration & Orchestration**
+  - Azure Data Factory (ADF)
+  - Microsoft Fabric Pipelines
+  - CI/CD for data (DevOps / Git / Deployment Automation)
+
+- 🔐 **Data Governance & Security**
+  - Microsoft Purview
+  - Row-Level Security (RLS) and Object-Level Security (OLS)
+  - Permissions and access control management
+
+- 📊 **Analytics & Visualization**
+  - Power BI: Data modeling, KPI creation, strategic dashboards
+  - Advanced DAX and Power Query (M)
+  - Performance tuning for reports and datasets
+
+- 🔥 **Big Data & Distributed Processing**
+  - PySpark
+  - Databricks
+  - Scalable data transformation and optimization
+
+- 🧠 **Languages & Tools**
+  - `SQL` | `Python` | `DAX` | `Power Query (M)`  
+  - Git | Azure DevOps | Visual Studio Code
+
+---
+
+### 🛠️ Projects & Experience Highlights
+
+- ✅ **Modern Data Platform Migration**
+  - Transition from legacy systems to modern Lakehouse-based platforms
+  - Design of scalable, secure, and high-performance data environments
+
+- 📈 **Advanced Analytical Solutions**
+  - Development of executive and operational dashboards
+  - KPI automation focused on actionable insights
+
+- ⚙️ **Performance Optimization**
+  - Pipeline and query tuning for enhanced processing and responsiveness
+  - Significant reductions in execution time in large-scale environments
+
+- 🔐 **Compliance & Data Governance**
+  - Implementation of Microsoft Purview for data catalog and governance
+  - Data security aligned with regulatory standards (e.g. LGPD)
+
+---
+
+### 💡 What Sets Me Apart
+
+- 🤝 Collaborative and results-driven mindset  
+- 🧭 Strong analytical thinking and innovation focus  
+- 🔧 Technical leadership in data projects  
+- 📚 Lifelong learner and cross-functional team player
+
+---
+
+### 📫 Contact
+
+- 🌐 [linkedin.com/in/rafaelleite](https://linkedin.com/in/rafael-leite-data-analyst/)
+- 📧 rafael.eng0786@outlook.com*(sample)*  
+- 📍 Location: Brazil - Florianópolis SC
+
+---
+
+### ⚙️ Tech Stack
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-5C2D91?logo=microsoft&logoColor=white&style=for-the-badge)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?logo=databricks&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-CC2927?logo=MicrosoftSQLServer&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-204ECF?logo=powerbi&logoColor=white&style=for-the-badge)
+![Power Query](https://img.shields.io/badge/M%20Language-00B2EE?logo=powerbi&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+---
+
+> 🧭 *Committed to excellence, innovation, and delivering impactful data solutions to drive informed business decisions.*
