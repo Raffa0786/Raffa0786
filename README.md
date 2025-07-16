@@ -1,6 +1,6 @@
 # 👨‍💻 Rafael Leite
 
-## 🚀 Data Engineer & Business Intelligence Specialist
+## 🚀 Data Analyst & Business Intelligence Specialist
 
 Experienced data professional with solid expertise in **Microsoft Fabric**, **Azure Data Factory (ADF)**, **Power BI**, and **Databricks**. I specialize in end-to-end data solutions — from integration and orchestration to modeling and delivering strategic insights.
 
